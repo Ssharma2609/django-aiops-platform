@@ -138,35 +138,52 @@ This platform simulates modern enterprise infrastructure monitoring systems by g
 
 ## Dashboard
 
-Add screenshot here:
 
-```text
-docs/screenshots/dashboard.png
-```
+![Dashboard Overview](docs/screenshots/dashboard1.png)
+![Live anomaly alerts Dashboard](docs/screenshots/dashboard2.png)
+
 
 ## Kibana Dashboard
 
-Add screenshot here:
 
-```text
-docs/screenshots/kibana-dashboard.png
-```
+![Kibana](docs/screenshots/kibana-dashboard.png)
+
 
 ## Django Admin
 
-Add screenshot here:
 
-```text
-docs/screenshots/django-admin.png
-```
+![Django Admin](docs/screenshots/django-admin.png)
+
 
 ## Elasticsearch Discover
 
-Add screenshot here:
 
-```text
-docs/screenshots/elasticsearch-data.png
-```
+![Elasticsearch](docs/screenshots/elasticsearch-data.png)
+
+
+---
+
+# 🎥 Demo Videos
+
+## Frontend Dashboard Demo
+
+![Dashboard](docs/demo/frontend-demo.mp4)
+
+
+## Kibana Observability Demo
+
+![Kibana](docs/demo/kibana-demo.mp4)
+
+
+## Elasticsearch Live Logs Demo
+
+![Elasticsearch Live Logs](docs/demo/elasticsearch-demo.mp4)
+
+
+## Celery Worker Demo
+
+![Celery](docs/demo/celery-demo.mp4)
+
 
 ---
 
