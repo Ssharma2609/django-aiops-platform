@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.sqlite3
+venv/
+
+# Django
+media/
+staticfiles/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Docker
+celerybeat-schedule
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
